@@ -1,9 +1,5 @@
 ### John's Reflection Journal for Lab 01
-This was an interesting lab. I learned a lot about the Iris dataset and how to visualize it using Python. The code was a bit overwhelming at first, but I was able to understand it better as I worked through the lab.
-
-I'm not sure yet if I fully understand the code, but I feel like I have a better grasp of it now. Now that I have used Google Colab and Jupyter Notebook cells in VS Code i'm interested to see which one I like better long term.
-
-I liked that I was able to see the differences between the three classes of Iris flowers. I also learned how to use different types of plots to visualize the data, which was very helpful.
+This was an interesting lab. I learned a lot about the Iris dataset and how to visualize it using Python. The code was a bit overwhelming at first, but I was able to understand it better as I worked through the lab. I liked that I was able to see the differences between the three classes of Iris flowers. I also learned how to use different types of plots to visualize the data, which was very helpful. Now that I have used Google Colab and Jupyter Notebook cells in VS Code i'm interested to see which one I like better long term.
 
 ### My Observations About the Iris Dataset
 
