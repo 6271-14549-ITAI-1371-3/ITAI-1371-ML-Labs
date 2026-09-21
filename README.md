@@ -27,32 +27,7 @@ For this course, this repository will be used to:
 
 Labs will be added and organized as the course progresses.
 
-Example:
-
-```text
-ITAI-1371-ML-Labs/
-├── README.md
-├── Lab-01/
-│   └── Lab-01.ipynb
-├── Lab-02/
-│   └── Lab-02.ipynb
-├── Lab-03/
-│   └── Lab-03.ipynb
-└── ...
-```
-
-## Tools and Technologies
-
-Labs in this repository may use:
-
-* Python
-* Jupyter Notebook
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* Other machine learning and data science libraries introduced during the course
-
-## About
-
 This repository is intended for coursework completed as part of **ITAI 1371 – Machine Learning**. Additional labs and projects will be added throughout the semester as they are completed.
+
+
+https://docs.google.com/document/d/1Xy11QF-_p54am4XavQr0Lwb72hqVn0L4RZv35-yhrak/edit?usp=sharing
