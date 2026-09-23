@@ -4,5 +4,5 @@ reflection journal: https://docs.google.com/document/d/1Xy11QF-_p54am4XavQr0Lwb7
 
 notebook: Compiled before turning in.
 
-contribution journal: https://docs.google.com/document/d/1AWDhh_umWeJwNNG3gUoMUMpwZr-ukEhsKJZjQ4O-8tw/edit?usp=sharing
+contribution journal: https://docs.google.com/document/d/1QVLjol21BACA4w4l81ZVRrcf5wNwveBKPegjuKhRDj8/edit?usp=sharing
 
