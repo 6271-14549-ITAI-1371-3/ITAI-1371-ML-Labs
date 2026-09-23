@@ -1,0 +1,2 @@
+I set up a local dev enviorment for running python scripts as well as running the assignment in Google Colab.
+Added and compiled the different members files into a single file.
