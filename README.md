@@ -1,33 +1,8 @@
 # ITAI-1371-ML-Labs
 
-This repository contains the Jupyter Notebook labs and projects completed for **ITAI 1371 – Machine Learning**.
+reflection journal: Compiled before turning in.
 
-The purpose of this repository is to keep all course labs organized in one place and provide an easy way for team members and instructors to review completed work throughout the semester.
+notebook: Compiled before turning in.
 
-## Repository Contents
+contribution journal: https://docs.google.com/document/d/1AWDhh_umWeJwNNG3gUoMUMpwZr-ukEhsKJZjQ4O-8tw/edit?usp=sharing
 
-Each lab will be uploaded as it is completed and may include:
-
-* Jupyter Notebook (`.ipynb`) files
-* Python code used for machine learning exercises
-* Data analysis and visualization
-* Machine learning models and experiments
-* Notes, observations, and conclusions from each lab
-
-## Course Repository Requirements
-
-For this course, this repository will be used to:
-
-* Store completed lab notebooks
-* Track progress throughout the course
-* Maintain an organized record of machine learning exercises and projects
-* Share work with team members when needed
-
-## Repository Structure
-
-Labs will be added and organized as the course progresses.
-
-This repository is intended for coursework completed as part of **ITAI 1371 – Machine Learning**. Additional labs and projects will be added throughout the semester as they are completed.
-
-
-https://docs.google.com/document/d/1Xy11QF-_p54am4XavQr0Lwb72hqVn0L4RZv35-yhrak/edit?usp=sharing
